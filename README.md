@@ -1,4 +1,4 @@
-# 🏆 Álbum de Figurinhas Tech — Copa do Mundo Tech
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/756f73dd-6114-42bf-8729-443d4136d9bd" /># 🏆 Álbum de Figurinhas Tech — Copa do Mundo Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -6,10 +6,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT" />
 </p>
 
 Uma aplicação web moderna e interativa que simula um **Álbum de Figurinhas Virtual** celebrando os maiores nomes e pioneiros da tecnologia. O projeto conta com uma API robusta desenvolvida em **FastAPI (Python)** no backend e uma interface rica e fluida com efeito 3D realista de virada de página no frontend.
+
+---
+
+## 📷 Screenshots e Demonstração
+
+| Capa do Álbum | Páginas Internas |
+| :---: | :---: |
+| ![Capa do Álbum](images/capa.png) | ![Páginas do Álbum](images/paginas.png) |
+
+---
 
 ## 🛠️ Stack Tecnológica
 
@@ -149,10 +158,10 @@ Contribuições são super bem-vindas! Siga os passos abaixo para colaborar:
 
 ---
 
-## ✉️ Contato e Autores
+## ✉️ Contato
 
 Desenvolvido por **Giovane Vicente** durante a Imersão Alura.
 
-*   **GitHub:** [@giponvi](https://github.com/giponvi)
-*   **LinkedIn:** [Giovane Vicente](https://www.linkedin.com/in/giovane-vicente)
-*   **E-mail:** [giponvi@gmail.com](mailto:giponvi@gmail.com)
+*   **GitHub:** [Descubra outros projetos!](https://github.com/giponvi)
+*   **LinkedIn:** [Vamos conectar!](https://www.linkedin.com/in/giovane-vicente)
+*   **E-mail:** [Entre em contato!](mailto:giponvi@gmail.com)
