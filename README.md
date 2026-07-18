@@ -11,21 +11,6 @@
 
 Uma aplicação web moderna e interativa que simula um **Álbum de Figurinhas Virtual** celebrando os maiores nomes e pioneiros da tecnologia. O projeto conta com uma API robusta desenvolvida em **FastAPI (Python)** no backend e uma interface rica e fluida com efeito 3D realista de virada de página no frontend.
 
----
-
-## 📷 Screenshots e Demonstração
-
-> [!NOTE]
-> *Insira aqui capturas de tela ou GIFs demonstrando a aplicação em funcionamento.*
-
-| Capa do Álbum | Páginas Internas |
-| :---: | :---: |
-| ![Capa do Álbum (Placeholder)](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop) | ![Páginas do Álbum (Placeholder)](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=600&auto=format&fit=crop) |
-
-*Exemplo de animação e virada de página em funcionamento.*
-
----
-
 ## 🛠️ Stack Tecnológica
 
 O projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
@@ -164,16 +149,10 @@ Contribuições são super bem-vindas! Siga os passos abaixo para colaborar:
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## ✉️ Contato e Autores
 
-Desenvolvido por **Lucas** durante a Imersão Alura.
+Desenvolvido por **Giovane Vicente** durante a Imersão Alura.
 
-*   **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
-*   **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-nome)
-*   **E-mail:** seu.email@exemplo.com
+*   **GitHub:** [@giponvi](https://github.com/giponvi)
+*   **LinkedIn:** [Giovane Vicente](https://www.linkedin.com/in/giovane-vicente)
+*   **E-mail:** [giponvi@gmail.com](mailto:giponvi@gmail.com)
