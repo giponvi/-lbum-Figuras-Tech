@@ -16,7 +16,7 @@ Uma aplicação web moderna e interativa que simula um **Álbum de Figurinhas Vi
 
 | Capa do Álbum | Páginas Internas |
 | :---: | :---: |
-| ![Capa do Álbum](images/capa.png) | ![Páginas do Álbum](images/paginas.png) |
+| ![Capa do Álbum](assets/capa.png) | ![Páginas do Álbum](assets/paginas.png) |
 
 ---
 
