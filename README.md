@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT" />
 </p>
 
 Uma aplicação web moderna e interativa que simula um **Álbum de Figurinhas Virtual** celebrando os maiores nomes e pioneiros da tecnologia. O projeto conta com uma API robusta desenvolvida em **FastAPI (Python)** no backend e uma interface rica e fluida com efeito 3D realista de virada de página no frontend.
