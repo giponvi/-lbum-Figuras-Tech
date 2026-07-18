@@ -1,4 +1,4 @@
-# 🏆 Álbum de Figurinhas Tech — Copa do Mundo Tech
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/756f73dd-6114-42bf-8729-443d4136d9bd" /># 🏆 Álbum de Figurinhas Tech — Copa do Mundo Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -14,14 +14,9 @@ Uma aplicação web moderna e interativa que simula um **Álbum de Figurinhas Vi
 
 ## 📷 Screenshots e Demonstração
 
-> [!NOTE]
-> *Insira aqui capturas de tela ou GIFs demonstrando a aplicação em funcionamento.*
-
 | Capa do Álbum | Páginas Internas |
 | :---: | :---: |
-| ![Capa do Álbum (Placeholder)](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop) | ![Páginas do Álbum (Placeholder)](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=600&auto=format&fit=crop) |
-
-*Exemplo de animação e virada de página em funcionamento.*
+| ![Capa do Álbum](images/capa.png) | ![Páginas do Álbum](images/paginas.png) |
 
 ---
 
@@ -163,16 +158,10 @@ Contribuições são super bem-vindas! Siga os passos abaixo para colaborar:
 
 ---
 
-## 📄 Licença
+## ✉️ Contato
 
-Este projeto está licenciado sob a Licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Desenvolvido por **Giovane Vicente** durante a Imersão Alura.
 
----
-
-## ✉️ Contato e Autores
-
-Desenvolvido por **Lucas** durante a Imersão Alura.
-
-*   **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
-*   **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-nome)
-*   **E-mail:** seu.email@exemplo.com
+*   **GitHub:** [Descubra outros projetos!](https://github.com/giponvi)
+*   **LinkedIn:** [Vamos conectar!](https://www.linkedin.com/in/giovane-vicente)
+*   **E-mail:** [Entre em contato!](mailto:giponvi@gmail.com)
