@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/756f73dd-6114-42bf-8729-443d4136d9bd" /># 🏆 Álbum de Figurinhas Tech — Copa do Mundo Tech
+# 🏆 Álbum de Figurinhas Tech — Copa do Mundo Tech 👾
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
